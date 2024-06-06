@@ -2,13 +2,11 @@
 #Made on 22/04/2024
 #Contributed by Thijs Groeneweg and Ruben Visser
 #Documented by Arian Farzad
-#Last edited on 03/06/2024 by Arian Farzad
+#Last edited on 05/06/2024 by Arian Farzad
 
-#This Python script first obtains the current working directory and then constructs a path for a directory named
-#"ActivityBrowserEnvironment" within that directory. It then attempts to remove this directory using shutil.rmtree().
-#If the directory is successfully removed, it prints a success message indicating the directory's removal.
-#If the directory is not found, it prints a message indicating that the directory was not found.
-#TODO: Update description
+#Obtain the working directory and construct a path to the nested environment directory
+#Once it succeeds it then attempts to remove this directory using shutil.rmtree()
+#Prints whether or not the directory is found and succesfully removed
 
 #Imports
 import shutil

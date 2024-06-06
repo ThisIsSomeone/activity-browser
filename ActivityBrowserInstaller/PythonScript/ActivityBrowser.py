@@ -1,10 +1,10 @@
 #ActivityBrowser.py
 #Made on 20/05/2024
 #Contributed by Thijs Groeneweg and Bryan Owee
-#Documented by Arian Farzad
+#Documented by Ruben Visser
 #Last edited on 03/06/2024 by Arian Farzad
 
-#TODO: Description
+#TODO Ruben: Description
 
 #Imports
 import os

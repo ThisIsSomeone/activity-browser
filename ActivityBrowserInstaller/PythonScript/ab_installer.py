@@ -2,11 +2,10 @@
 #Made on 22/04/2024
 #Contributed by Thijs Groeneweg and Ruben Visser
 #Documented by Arian Farzad
-#Last edited on 03/06/2024 by Arian Farzad
+#Last edited on 05/06/2024 by Arian Farzad
 
-#This Python script creates a directory named "ActivityBrowserEnvironment" and then extracts the
-#contents of the compressed tar file "ActivityBrowser.tar.gz" into that directory using the tar command.
-#TODO: Update description
+#Creates a directory and extracts the contents
+#of the compressed 'ActivityBrowser.tar.gz' file into this directory
 
 #Imports
 import os

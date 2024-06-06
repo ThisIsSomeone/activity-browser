@@ -4,7 +4,7 @@ Made on 31/05/2024
 Contributed by Arian Farzad
 Last edited on 31/05/2024
 
-Contains the changelog of the Activity Browser Installer & Updator
+Contains the changelog of the Activity Browser Installer & Updater
 -->
 
 # Changelog

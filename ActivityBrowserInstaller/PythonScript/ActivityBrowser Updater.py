@@ -4,11 +4,11 @@
 #Documented by Arian Farzad
 #Last edited on 03/06/2024 by Arian Farzad
 
-#This Python script checks for updates of an application from a GitHub repository, prompts the user to install
-#the latest version if available, and handles the download and installation process with a progress bar.
-#There are two classes, downloadThread downloads the Activity Browser and the updaterWindow does everything for the
-#UI. The downloadWindow has two events, to which the updateWindow listens to update the UI to change the download progress.
-#TODO: Update description
+#Checks for updates on the AB GitHub repository
+#Prompts the user to install the latest version if not already installed
+#Displays download progress to the user with a progress bar
+#downloadThread downloads the activity browser
+#downloadWindow listens for the progress and updates the UI bar
 
 #Imports
 import tempfile
