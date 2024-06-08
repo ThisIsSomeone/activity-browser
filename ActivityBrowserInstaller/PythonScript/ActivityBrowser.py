@@ -4,7 +4,8 @@
 #Documented by Ruben Visser
 #Last edited on 03/06/2024 by Arian Farzad
 
-#TODO Ruben: Description
+# This runs the Activity Browser application, with options to check for and update to the latest version using GitHub releases. 
+# It includes functions to handle different operating systems (Windows and macOS) and manages version comparisons and environment activation. 
 
 #Imports
 import os
