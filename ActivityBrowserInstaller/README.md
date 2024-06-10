@@ -23,6 +23,7 @@ The ABInstaller allows the generation of .exe or .app files that can be distribu
 Outlined in this document will be the guidelines on how to generate such files.
 
 ## Installation
+If this is the first time compiling the exe files, please make sure that the repository and user in line 112 of ActivityBrowser.py and line 367 of ActivityBrowser Updater.py are correct.
 
 ### Windows
 
